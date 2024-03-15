@@ -190,5 +190,6 @@ void menuBiblioteca()
 {
 	system("cls");
 	gotoxy(55, 1); cout << "Menu Biblioteca" << endl;
+	gotoxy(55, 2); cout << "Hola Mundo" << endl;
 	system("pause");
 }
